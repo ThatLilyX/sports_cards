@@ -22,6 +22,6 @@ svcs.sandbox.ebay.com:
     version: 1.12.0
 
 # Shopping API - https://www.x.com/developers/ebay/products/shopping-api
-open.api.ebay.com:
+open.api.sandbox.ebay.com:
     appid: JedJed-Test-SBX-369eabc89-ae374269
     version: 671
