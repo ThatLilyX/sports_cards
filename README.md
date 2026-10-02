@@ -1,2 +1,2 @@
 # sports_cards
-Pricing analysis & trading signals for sports cards from EBay.
+Pricing analysis & trading signals for sports cards from eBay.
